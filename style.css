@@ -13,3 +13,11 @@ body {
 .Cat{
 	text-align: center ;
 }
+
+.name {
+	color: white;
+}
+
+img:hover {
+	width: 500px;
+}
